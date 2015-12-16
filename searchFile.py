@@ -1,7 +1,5 @@
 #!/usr/bin/python
 
-# Copyright 2014, Gurobi Optimization, Inc.
-
 ##
 # 	Ali Germiyanoglu
 #
