@@ -1,2 +1,2 @@
 # Python-Text-File-Searcher
-Text finder for huge files
+Text finder for huge text files
